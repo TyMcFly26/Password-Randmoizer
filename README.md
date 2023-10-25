@@ -1,1 +1,1 @@
-# Password-Randmoizer
+This is my attempt at a password randomizer that will set a random password at a specificed lentgh, feel free to adjust it by altering the "password_length" This is just to highlight my syntax and coding practices. # Password-Randmoizer
